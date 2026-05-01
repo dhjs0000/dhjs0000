@@ -6,7 +6,7 @@
 <h2 align="center">👋 你好，我是 Ethernos Studio 创始人</h2>
 
 <p align="center">
-  <a href="mailto:studio@ethernos.cn">📧 studio@ethernos.cn</a> |
+  <a href="mailto:studio@ethernos.net">📧 studio@ethernos.net</a> |
   <a href="https://qm.qq.com/cgi-bin/qm/qr?k=YOUR_QR_CODE">👥 QQ群: 1070963958</a> |
   <a href="https://space.bilibili.com/3546980420684160">📺 B站: 工作室</a> |
   <a href="https://space.bilibili.com/430218185">🎬 B站: 个人</a>
@@ -25,8 +25,8 @@
 
 我们是一个充满激情的创作团队，致力于开发创新且高质量的开源项目。
 
-- **组织页面**: https://github.com/EthernosStudio
-- **联系邮箱**: studio@ethernos.cn
+- **组织页面**: https://github.com/Ethernos-Studio
+- **联系邮箱**: studio@ethernos.net
 - **公共交流群**: 1070963958
 
 ### 🛠️ 技术栈
