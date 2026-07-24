@@ -29,6 +29,18 @@
 - **联系邮箱**: studio@ethernos.net
 - **公共交流群**: 1070963958
 
+### Cavvy编程语言项目
+
+Cavvy编程语言是一个基于Rust编写的面向对象的系统编程语言，详细信息看：https://github.com/cavvy-lang
+<p align="center">
+  <img src="https://github.com/cavvy-lang/Cavvy/blob/main/docs/README/images/Cavvy.png" alt="Cavvy Logo" width="600">
+</p>
+
+<p align="center">
+  <strong>Rust Frontend · LLVM Backend · Native Lightweight</strong>
+</p>
+
+
 ### 🛠️ 技术栈
 
 <p align="left">
